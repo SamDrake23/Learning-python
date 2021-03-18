@@ -1,0 +1,1 @@
+print("slapshot\nmountain\nrevenant\nspiderman into the spiderverse\nstar wars\n")

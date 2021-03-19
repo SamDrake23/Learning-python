@@ -1,1 +1,11 @@
-print("slapshot\nmountain\nrevenant\nspiderman into the spiderverse\nstar wars\n")
+seaTle = "hamburger"
+fortnite = "epic"
+soyBean = "short"
+muSic = "music"
+hoRrid = "horrid"
+waTer = "wake board"
+sAd = "cry"
+loVe = "lust"
+dance = "crip walk"
+rodAnt = "possum"
+print(:"seatle is known around the world for its " + seaTle + "and as cultural hotbed")

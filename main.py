@@ -1,11 +1,12 @@
-seaTle = "hamburger"
-fortnite = "epic"
-soyBean = "short"
-muSic = "music"
-hoRrid = "horrid"
-waTer = "wake board"
-sAd = "cry"
-loVe = "lust"
-dance = "crip walk"
-rodAnt = "possum"
-print(:"seatle is known around the world for its " + seaTle + "and as cultural hotbed")
+seaTle = input ("enter a noun related to seatle\n")
+epIc = input ("enter something epic\n")
+soyBean = input ("enter a small food\n")
+muSic = input ("enter a genre of music\n")
+hoRrid = input ("enter a negative adjective\n")
+waTer = input ("enter a liquid\n")
+sAd = input ("enter a negative emotion\n")
+loVe = input ("enter a positive emotion\n")
+daNce = input ("enter a dance move\n")
+rodAnt = input("enter a rodant\n")
+print(" seatle is known around the world for its " + seaTle + " and as cultural hotbed theres something for everyone from " + epIc + " ballet to " + soyBean + " rock a symphony that plays " + muSic + " and " + hoRrid)
+print(" museums but where do you go to challenge yourself to push your boundires? On the boards take creative risks where others might fear to " + waTer + " resulting in " + sAd + " confusion " + loVe + " we are proud to be a hub where people can " + daNce + " around " + rodAnt + "bye")
